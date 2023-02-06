@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jérémy Legendre</h1>
 <h3 align="center">an apprentice developer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ggdelamul&label=Profile%20views&color=0e75b6&style=flat" alt="ggdelamul" /> </p>
+
 
 - 🔭 I’m currently working on **Endless-Warriors JS card-battle project**
 
