@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Aegnce_Edition Symfony Project**
+- 🔭 I’m currently working on **Agence_Edition Symfony Project**
 
 - 🌱 I’m currently learning **SYMFONY**
 
