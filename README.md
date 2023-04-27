@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **Endless-Warriors JS card-battle project**
+- 🔭 I’m currently working on **Aegnce_Edition Symfony Project**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **SYMFONY**
 
 - 📫 How to reach me **projeremylegendre@gmail.com**
 
