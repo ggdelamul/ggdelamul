@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **Agence_Edition Symfony Project**
+- 🔭 I’m currently internship on an intership
 
-- 🌱 I’m currently learning **SYMFONY**
+- 🌱 I’m currently use WordPress HTML CSS JS.  I develop the theme and plug In
 
 - 📫 How to reach me **projeremylegendre@gmail.com**
 
