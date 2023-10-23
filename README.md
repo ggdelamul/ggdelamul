@@ -2,10 +2,7 @@
 <h3 align="center">an apprentice developer from France</h3>
 
 
-
-- 🔭 I’m currently internship on an intership
-
-- 🌱 I’m currently use WordPress HTML CSS JS.  I develop the theme and plug In
+- 🌱 I’m currently learn creative coding using Javascript.  
 
 - 📫 How to reach me **projeremylegendre@gmail.com**
 
