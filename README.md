@@ -2,7 +2,7 @@
 <h3 align="center">an apprentice developer from France</h3>
 
 
-- 🌱 I’m currently learn creative coding using Javascript.  
+- 🌱 I’m currently learn creative coding using Javascript and C# basics 
 
 - 📫 How to reach me **projeremylegendre@gmail.com**
 
