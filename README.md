@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jérémy Legendre</h1>
-<h3 align="center">an apprentice developer from France</h3>
+<h3 align="center">a web developer from France</h3>
 
 
-- 🌱 I’m currently learn creative coding using Javascript and C# basics 
+- 🌱 I’m currently learn creative coding using Javascript POO and C# basics 
 
 - 📫 How to reach me **projeremylegendre@gmail.com**
 
