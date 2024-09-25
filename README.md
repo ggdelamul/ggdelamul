@@ -2,7 +2,7 @@
 <h3 align="center">a web developer from France</h3>
 
 
-- 🌱 I’m currently learn creative coding using Javascript POO and C# basics 
+- 🌱 I’m currently develop a sass using Angular and ASP .net 
 
 - 📫 How to reach me **projeremylegendre@gmail.com**
 
